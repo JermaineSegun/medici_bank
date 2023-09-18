@@ -4,7 +4,7 @@
 ![MongoDB Version](https://img.shields.io/badge/MongoDB-v5.0.7-blue "MongoDB Version")
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-My Name: **Bezaleel Olakunori** [Email](mailto:bezaleeloci@gmail.com) [GitHub](https://github.com/B3zaleel) [Twitter](https://twitter.com/B3zaleel).
+My Name: **Olusegun Akinlolu** [Email](mailto:olusegunakinlolu@gmail.com) [GitHub](https://github.com/JermaineSegun).
 
 ## Description
 
